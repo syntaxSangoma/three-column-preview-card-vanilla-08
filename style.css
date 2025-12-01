@@ -34,7 +34,7 @@ img {
     --FF1: "Lexend Deca", sans-serif;
     --FF2: "Big Shoulders", sans-serif;
 
-    --TITLE-SHARED: bold 2.5rem var(--FF2);
+    --TITLE-SHARED: 400 2.5rem var(--FF2);
     --DESCRIPTION-SHARED: normal .9375rem/1.5625rem var(--FF1);
     --BUTTON-SHARED: normal .9375rem/1.5625rem var(--FF1);
 }
