@@ -158,7 +158,7 @@ a:any-link {
     .three-column-card {
         width: 920px;
         min-height: 500px;
-        margin: auto 16.25rem;
+        margin: 10.6875rem 16.25rem 8.0625rem 16.25rem;
         display: flex;
     }
 
